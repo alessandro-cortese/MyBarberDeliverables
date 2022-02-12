@@ -1,0 +1,2638 @@
+commit 26f6efba777b9b48b85168b58585a95ac7d340be
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-11
+
+    list
+
+commit d5a720c91ec9266ae94dec0afa0b2d965fb46b51
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-11
+
+    Refactor
+
+commit 08aad10af2cc3690accf18f8e7971ce028368e5d
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-11
+
+    Refactor
+
+commit 939086bff1ad6089c4a413157d085ab4304feca6
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-11
+
+    Commit finale
+
+commit 462ae590f598b5e9d53e12ef3d25d10012a00b1f
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-10
+
+    Refactor nomi dei test
+
+commit 8dfd8329cd6b5624356c0ff5e4db217f17fa8dc1
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-10
+
+    Update BarberAppointmentsListCellFactory.java
+
+commit b27dcc018c619bd04d7c87762c589955ef62fa58
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-10
+
+    commit
+
+commit d0aeb2279b34276e9eab6cdad832b110e2180d2a
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-10
+
+    Commit
+
+commit 1b9ea5e5b7bd91af648359658d9da5dbbe016035
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-09
+
+    Modifiche
+
+commit 38db5000e4b33d023b71e8fe17c3010dac9f8764
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-09
+
+    Modifiche caso d'uso Manage Service
+
+commit 68970f407851f99e3f7f449c5a63aa6e052f98f0
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-09
+
+    Modifiche per togliere un'eccezione sull'aggiunta del salone
+
+commit b0986dfe21705d57b628104f3b5b2cd00b5ba10c
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-08
+
+    Aggiunta commenti; Riduzione stato controller applicativi
+
+commit e13645529bc93de4d9f1a7d31e56855747c4b346
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-08
+
+    eccezione data null
+
+commit 10f626ad5fd00a2fe23cfe1a2f570cbb63ad313d
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-07
+
+    Rimozione Bug BarberSeeOrder
+
+commit d91975ccb4bbd92140842fedbeb165c74be4d685
+Merge: ec6b163 8aa357f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-07
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit ec6b16374b9ad7874b739cf8573891136585aaa8
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-07
+
+    c
+
+commit 8aa357f833e6650df53ea2b3239834fca494bf0b
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-07
+
+    Modifiche
+
+commit bedfbca4899d344e779590c7ee1ee5c7d5babe44
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-06
+
+    text exceptin
+
+commit 1fc95c84807409f5ee040e065bf1b26e23e78cb9
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-06
+
+    Modifiche al file della boundary
+
+commit c752d00d7cfbe7ec735983fbbc5a70e3ffec4709
+Merge: a18e0b7 06047b6
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-06
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 06047b6d433248c219942dae4faa85bacaec62f2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-06
+
+    Update BarberListAppointmentsController.java
+
+commit a18e0b71435de79275d754885b6db7dc43f43439
+Merge: 00110dc 66ec615
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-06
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 00110dc0cbd50261640f9175ed1be3d403c87ea3
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-06
+
+    Correzione Code Smell
+
+commit 66ec615da17114dad89eb3b9ac7bbc45c74d033f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-06
+
+    Update BarberListAppointmentsController.java
+
+commit 3b5b7892536df3afca7d928d3bef81f90abd73fb
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-06
+
+    commit
+
+commit a5ccdab44b45250334d3bbd8a4d7692f739ec6b7
+Merge: 9c91f5a 219ac04
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-05
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 9c91f5a43dac34086c247b3a9e6ed42e778d7937
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-05
+
+    Modifica Accesso in Register
+
+commit 219ac04c995f39ee82d98bcbd57c4f040fffa4fe
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-05
+
+    Modifiche: ho modificato bean e controller applicativo assegnando le giuste responsabilità.
+
+commit d5f7d85bccf0b0570093f357cf85e46df24858be
+Merge: 47edfb1 4126c3d
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-05
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 47edfb1d860428403b778dec3d169d815137557f
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-05
+
+    Modifiche Varie
+
+commit 4126c3d2dc39db36c736c9e783611b566ee1eb6a
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-05
+
+    modifica ecc
+
+commit b8b3991bf4dc945bf60e3899979a2b0cd836428d
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-04
+
+    c
+
+commit 0cd496de4c7edf0812946103b3a6329cca7172e0
+Merge: 0810caf da74bfa
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-04
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 0810caf544a1a637c75dbe739bd28699b4230318
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-04
+
+    c
+
+commit da74bfae67f23ecf2ae27ae4da2bf3d13bf4a906
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-04
+
+    Commit
+
+commit a40e2ff19a612a097841d13bab992ca924015e44
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-04
+
+    com
+
+commit 4390628fdb5b9c59934d5b6f579762ecc5651ef4
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-04
+
+    Modifica Interfaccia Grafica
+
+commit 5fcb8b7703f157a45f1bdeb0dcd9061996815c08
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-04
+
+    comm
+
+commit 4516d028fd9b5638fe88b46b303127dbb7fa3a22
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-04
+
+    Alcune modifiche del caso d'uso Manage Service
+
+commit b6e828ca27d1fe0925dcd382f5a62bc5edab9c03
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-03
+
+    Test
+
+commit b6e88b186fe5b2fbeb491b29a739cf5a077063e8
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-03
+
+    Code smell relativi ai test
+
+commit 8ec806621583b0749ba3be58002e36590d2b9ef0
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-03
+
+    Test Manage Service
+
+commit c00ec8d93a2ae241f3d533e07a4ee10218f2e434
+Merge: 6e87162 e1b24a9
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-02
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 6e87162f123dd6887ee6bf91bc034c9217bfef62
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-02
+
+    Aggiornamento Stile
+
+commit e1b24a960cfb4bd6e85c188b78bcbb5c8534a1d8
+Merge: 71f14cd df08fb2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-02
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 71f14cd1a64c493c24e4b474331f49587394bab7
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-02
+
+    com
+
+commit df08fb2a195c1f2b052ec50fef30fff7d79f2e93
+Merge: e21dcb1 0788771
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-02
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit e21dcb15b98bd4a830c3d8134a9f0e1d866effb3
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-02
+
+    Modifiche Parziali su Grafica
+
+commit 0788771fccc2c29714752a5d1d878e6e27037507
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-02
+
+    GRAFICA
+
+commit 768507fa95be04a3a2911710623127149595f138
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-02
+
+    aggiustato bugg
+
+commit 676bda49917ef0160b4e558fcf81b3a85b929462
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-02
+
+    Modifica caso d'uso "Manage Service"
+
+commit bb9163d5a800fe6f0b5b7905b23d7637d3120f9f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-01
+
+    eccezione duplicate key registrazione e validateAddress fatti
+
+commit 03b2066dbd5be03c6df09eff7ee2ffe71e2e8bfa
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-01
+
+    testCase
+
+commit 137c9d6429c8418765faf157d3df3c27be6b284d
+Merge: d648607 5275a56
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-01
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit d6486070e860c27b018f8b6de0775786f4eaded4
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-02-01
+
+    co
+
+commit 5275a56e85a364be7f138d264d68e25647cb3956
+Merge: 6cac686 1910fc7
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-01
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 6cac686ebf6c2fbf3cba320f9a97d328ec6bc4ec
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-02-01
+
+    Modifiche Varie
+
+commit 1910fc791b82ededf50c11238b1759e67a90dc5a
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-02-01
+
+    Modifiche caso d'uso "Manage Service" e collegamento alla seconda interfaccia
+
+commit fe4d7b6d602cc372128a4adafa7f09abbcb066f2
+Merge: d75a093 892c554
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-31
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit d75a093c13f01109e7734cf309d3b63118d40020
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-31
+
+    commit
+
+commit 892c5542771cf166fcfc8844862934b7761adde9
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-31
+
+    Aggiunta la modifica dei servizi alla prima interfaccia
+
+commit 4e8977f18110e77b548e9cef4e5f5d412e00028b
+Merge: 05196e9 14cdc52
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-31
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 05196e92afebb3ab1535297ab5e08cce3701ee99
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-31
+
+    caso d'uso vedi app
+
+commit 14cdc52ee934716f680c5f6c1c0ffd64ed0d5543
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-30
+
+    implementazione caso d'uso ManageService (aggiungi servizio e cancella servizio)
+
+commit 693e950b0b3ef4575d7ddabea817b73adee0c1dd
+Merge: 82f2c79 b58209b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-30
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 82f2c79f859914f4c9ef5c07be92547640023351
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-30
+
+    commit
+
+commit b58209b9cb6773647887b0ab0fcf20a014637754
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-29
+
+    Commit
+
+commit 027c98c765d0900cc0745f8ea743b7ba25c2b85e
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-29
+
+    Correzione code smell.
+
+commit b87ed2deae1bfd9d0bbf9c3ac1342521cdc0782d
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-29
+
+    Raffinamenti Boundary BuyProduct e ManageOrder
+
+commit 1c3f95f737371552dc1031665cb2c60c5fbd516e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-29
+
+    Rimozione Code Smell
+
+commit ec59adf12a30e77a79961ac007318488905fd353
+Merge: 62b3531 51db174
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-29
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 62b353173789d7ab6eb3c6640a816e2d9ee8fc43
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-29
+
+    Costruzione TestCases ; Aggiornamento ManageCoupon
+
+commit 51db174719709f5f018354c69a3837f9fd021856
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-29
+
+    Update ClientSearchSaloon.java
+
+commit 4a8d6ccd642a20e16c0098202e8459e863997591
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-29
+
+    code smell
+
+commit 409caacef1596af274eefa543b54ead73e5d8bc6
+Merge: 02899c5 06157ff
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-29
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 02899c5700c8ee2b635ae4235052ed4712f01ab7
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-29
+
+    code smeel
+
+commit 06157ffde7355d08b2e665d3f1eb28b52ef916c7
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-28
+
+    Correzione errore della Factory e code smell.
+
+commit 89bdc05e807353f6b25123c207a70ec94865bdd2
+Merge: 4aee3e2 54b2364
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-28
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 4aee3e241bd62b239dff0097e4cb59552bcdfc08
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-28
+
+    Risoluzione CodeSmell
+
+commit 54b236490a3aef1dd5b5d49b30140711207740ae
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    com
+
+commit 57228094cea3ef824704e848c3a529908ed41b0b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    code smell
+
+commit 5fbd4fb2a0a7ab30d3272f9a7eee2ec89d6459a5
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    codesmell
+
+commit a900a7d6dc9fe8347460961f0446bf3abc8056ad
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    commit per togliere code smell
+
+commit 66a1ad7cb24cc0645e473ca3a563e07d97065e81
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    commit
+
+commit 8963195f9ab44ed63833f0dd73a2e26432a4f661
+Merge: 08d8f55 bf3d823
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 08d8f55bbfac6757d4a6f3ed31bda9c9dbfc0bb8
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-28
+
+    commit
+
+commit bf3d82345f094d92811bf3b44d481ea0d38410fa
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-27
+
+    Aggiunta Customer e Barber come attributi di Order e Product ; Modifica delle DAO Annesse ; Completamento BarberManageOrder
+
+commit 7284704fe727b148cd123f808f6e92da554b1875
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-27
+
+    Correzione di alcuni code smell
+
+commit 6beeed54be2435395ef9a26c8a440de25ffc0c4e
+Merge: f75519b 05726d3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-27
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit f75519b5345c9b753c344c10f18b869f55040cbe
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-27
+
+    commit
+
+commit 05726d343882b2ad3f7665ee9c7983f73145c4d6
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-27
+
+    Update AddProductController.java
+
+commit 4edb7c9e7f77437e90dadad68406c8907d42ec52
+Merge: 0baeb8b 5841874
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-27
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 0baeb8b47e6840012c32b21e4edbe390dc8dc7c1
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-27
+
+    Modifiche relative al barbiere
+
+commit 5841874bd3038a8058605d80197e8ae1969d778a
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-27
+
+    commir
+
+commit 8d27e8ce339266542e97ce3fbb7f3668d3b30739
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-27
+
+    factory e registrazione terminata da impelemtare
+
+commit 0b88672a53cb837e7b2326acb89ae9745e9428d6
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-26
+
+    Risoluzione Problema Register Interfaccia 2
+
+commit ab279b7f3906d45032ea4850fa2da65181c12220
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-26
+
+    subscribe problem
+
+commit c5d07b1dcb127b03ff82abf4c9fe5252fab81ea5
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-25
+
+    Rimasugli dei problemi del commit
+
+commit 39f1e8e00cff85b99907d5db4efaf2e18e4d2a77
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-25
+
+    Commit
+
+commit fe4893a241d423ea7af48b2f443f1f24270cd72a
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-25
+
+    Commit per risolvere i problemi degli stashed
+
+commit 1c488807720fa2dc6f01b5568b55b4e2f1128749
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-25
+
+    Commit
+
+commit 5caecdbe5422b392617631ce1c8c0b07b381ae03
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-25
+
+    Caso d'suo "Aggiungi prodotto"
+
+commit 58e16a724120b9e851627e6966882343abcad720
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-25
+
+    da finire factory
+
+commit ca3d10f2a87cb6686e735679e7f218df8579a894
+Merge: 836f0fe 72af893
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-25
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 836f0fe140c61acf092aee488ad5d5e7a9692c2a
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-25
+
+    factory logica
+
+commit 72af89314a5db5626c03fff1b15935c0c4b099c4
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-25
+
+    BuyProductController: Raffinamenti ; DB: Creazione file configurazione ; Register : Risoluzione problema cambio schermata
+
+commit 9d8c839ed0fe969778ce732c96b9d38597d4d8fb
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-23
+
+    Inizio sviluppo caso d'uso "Aggiungi Prodotto" e correzione alcuni code smell
+
+commit ba4fe1c1816994d60c2c8881f65289e8d4fd50f1
+Merge: 7fe91ee ab52acf
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-23
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 7fe91eed1b43a481ef9fbfa79b7859e75837513c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-23
+
+    commit
+
+commit ab52acf68b4e170976d9645cd0477ef7323069dc
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-23
+
+    ManageCoupon: Aggiustamenti e modifica Interfaccia
+
+commit 32c76451a918b658d5f6d0080ce9f73f9e0a2c24
+Merge: cca2b26 4d47363
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-22
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit cca2b26882ce7d7b4176254abacdd8dd6e57628c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-22
+
+    committ
+
+commit 4d47363bb0d647d875c2f2af35d93579c9d3dcad
+Merge: 51a7c0e e5420b7
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-22
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 51a7c0e689b35f0b9f99b42c04245355551d6a5c
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-22
+
+    ManageOrder: Collegamento Interfaccia 2
+
+commit e5420b77d31a47c3539d03eb72c576fcde2349b6
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-22
+
+    Modifiche caso d'uso e aggiunta gestione giorno di chiusura nella prima interfaccia
+
+commit 2784decda4a4d4b0ad1ec9956bd34dbf15066ec3
+Merge: 923f852 eaa9396
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-21
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 923f85228cb20546c8c4edbe1463e184b35f1200
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-21
+
+    AGGIUNTO ECC iNVALIDSLOTTIME E TIMESLOTBEAN
+
+commit eaa9396b619877affeb255a0dcc53ac4f0a34e0a
+Merge: 3e41087 309e84a
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-21
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 3e410871191a142a5ae855f025771539d620c569
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-21
+
+    Modifica BuyProduct e inizio ManageOrders
+
+commit 309e84a35b155ca926ee19e93457e4b585247cba
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-21
+
+    commit
+
+commit 18de7938f2010d7601cebbe014c8e62ea06e6d47
+Merge: b31871c 32307cd
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-21
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit b31871c861c3dd32c5a8f08d53ff851162e46caa
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-21
+
+    commit non fatto di ieri
+
+commit 32307cd28b7f49a9d4d185c615645b49e60dd0fa
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-20
+
+    Revisione caso d'uso
+
+commit 39319c2c1fad7c36bff6b9bb98f75dfb3709f7b3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-20
+
+    caso d'uso finito e eccezzioni
+
+commit ce2852f3e844a4eaa47896dc0612fff4da8d3f97
+Merge: 382150b 7662b54
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-19
+
+    commit
+
+commit 382150b56cccbb1bf86ca383c2574b6b010407db
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-19
+
+    committ
+
+commit 7662b545d6396fc3614522f143389fe8b93df16d
+Merge: ac1bd64 2f82ccf
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-19
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit ac1bd64fc3547217add5c135a4120dd4efd2d1df
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-19
+
+    Implementazione FileCartSaver
+
+commit 2f82ccf4f516c92c46d2dbf7b4ad58178b684b44
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-19
+
+    Modifiche seconda interfaccia e correzione alcuni code smell.
+
+commit b1fb72dd6ff34fc4f6a9a89985af53c3bafb4b25
+Merge: 6a3791f f4a7add
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-19
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 6a3791fd50c8f109f8ba05eebc038539f3acaa8c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-19
+
+    commit
+
+commit f4a7add2c261fef1ee6e91507cc64c61f4f7e071
+Merge: 496a903 a8361ba
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-17
+
+    Commit
+
+commit 496a90394dac6d26f906345d21f7ca54d8f16707
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-17
+
+    Aggiunte schermate seconda interfaccia
+
+commit a8361bad769148a69ad84f58f1f13798c827dc84
+Merge: 1068608 1c04b4e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-17
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 1068608f02e6fc2c821a6a86fee79d788c3fc79c
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-17
+
+    Raffinamenti Generali
+
+commit 1c04b4e260955f7867ef68293d4b24f89b14f545
+Merge: 4582358 59f5992
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-17
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 4582358968cac382339aa9e5d8ff245c2f759885
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-17
+
+    ScheduleTime
+
+commit 59f59929526a7d3d82e1da22ac44fdc4bd789fae
+Merge: 739dcae e707b81
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-15
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 739dcae9d4b811edd776df9e4458a3aa74ee35e5
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-15
+
+    Raffinamenti Vari
+
+commit e707b81c19883a3f53cae38bce4147a7d65eac97
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-15
+
+    Creazione ListCellFactory relativa al barbiere
+
+commit 48009b65a106e04e99e87d7e407a8a1910271f61
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-15
+
+    Creazione ListCellFactory relativa al barbiere
+
+commit d3864f175e53ce6f8a0cb4d12f80509d3c7b7aa7
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-15
+
+    repair codesmell
+
+commit e61662a3999e0ed80efc8aa0dced75e3771bc454
+Merge: 5e2882e d8d512c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-15
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 5e2882e34debf001ed0379d78daa53c4e17546c3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-15
+
+    commit
+
+commit d8d512c605b14ee24beaa6693966c23be609a86e
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-15
+
+    Modifiche SaloonDAO
+
+commit 2701104ca08d892b9fb678e5cef160fa559e80a7
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-14
+
+    Correzione alcuni code smell
+
+commit ba9155588924e11f695496dcd0df6a4de424e43d
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-14
+
+    Chiusura caso d'suo e collegamento alla seconda interfaccia
+
+commit b6a466ec4647af71bdee81bac737ed9a67d86f7c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-14
+
+    commit
+
+commit c15970181d3f4dda5ba6f303cd5bd86121875372
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-14
+
+    Aggiunta Login in BuyProduct; Collgamento Login a seconda interfaccia
+
+commit f227660a359dac4c4f6d19b78ccde356f03053dd
+Merge: 0d81078 dae5aa8
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-13
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 0d81078b7642b3276810a84ef144f8675a9ae745
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-13
+
+    Aggiunta doppio tipo di Coupon; Continuo Genera Coupon
+
+commit dae5aa8603dbe42ff5f0d8bf84a057abc91fe9c7
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-13
+
+    Conclusione logica caso d'uso "Aggiungi Servizio" e collegato alla prima interfaccia
+
+commit 10671ac91d812b64f544f3b4d80f1bc5d03209f9
+Merge: a7ea87b c10b36a
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-11
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit a7ea87b49a48cacbe122c10ffea4c7e0b3e69536
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-11
+
+    implementata logica creazione Slot time
+
+commit c10b36a491ffb769994062c614932323457484b1
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-11
+
+    commit
+
+commit bb70049509b2808488c9eb922c8de99ac670bed7
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-11
+
+    Modifiche
+
+commit fdd61bb53186cbfa3a5c650553c928794bb2176a
+Merge: aad6d25 71d1494
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-11
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit aad6d25eb691f5f6449d76c4aaed1fcf1701084b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-11
+
+    comm
+
+commit 71d14946429e05f9c10de0e424316390057224aa
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-11
+
+    Modifica Salone
+
+commit 8533c823b6db692f8f10afc968581923e030a8ea
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-11
+
+    Commit
+
+commit c92fb19c3de2b6b96be064acd5ece6d3f1f336b5
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-11
+
+    Continuazione caso d'uso "Aggiungi Servizio"
+
+commit e47e9944541a131cbd1e7472b67cc783619d9309
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-10
+
+    out file
+
+commit 954c8d09f3a534362f921550a5d67c3a8a92fde4
+Merge: 856b97c 690048e
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-10
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 856b97ca2814845c0ab02dd4d24e15b3aefaaa8f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-10
+
+    logica caso d'uso
+
+commit 690048ee273194299a77bdb2bd112f4b3e26da14
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-10
+
+    Continuazione caso d'uso "Aggiungi Servizio"
+
+commit 4aec9984806ef6d86bd765ec20b7e2fd312216a3
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-10
+
+    Aggiunto legame a DB di CouponDAO
+
+commit b388701ce3d1b1a429c11727881c227535830ad9
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-10
+
+    listview con listCellFactory
+
+commit 8a632309b86bb214a138275a4ca7bea10c4af5c6
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-10
+
+    Rimozione code smell
+
+commit d4447a76fd089a9af033be3cfa1b5f50fa554f90
+Merge: 8f3b11c 2f687b2
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-08
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 8f3b11cb27cad7e2f31a449e05518ecf8e590621
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-08
+
+    Continuo GenerateCoupon (DA COMPLETARE)
+
+commit 2f687b29b14dc2ac6b075577d914461bf8019355
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-08
+
+    Inizio sviluppo del salone
+
+commit 8a800ce107ad5d633fe4bc11208486b43322fa01
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-08
+
+    commit
+
+commit 626d2e2c586c92aba6f550f78a0658d7e1fd1c60
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-08
+
+    Commit
+
+commit 13261114c4a0d57443c3a9d1064b3e7ec1d4e3a6
+Merge: 26868f4 240ba87
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-07
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 26868f476fc617b91411123955fbd72cfa70b6b6
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-07
+
+    Ripristino Register
+
+commit 240ba875eb4a3811073b757a22a4a6540a9df267
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-07
+
+    Modifiche
+
+commit d22aa5422c28ceb51b1ae5d297e722053727504e
+Merge: 777359e 52bbd4e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-07
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 777359eb872cf6da76ae65cc63d5315c82f536b5
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-07
+
+    Implementazione Login
+
+commit 52bbd4ef0863b04c87669a7b2cf12a9f132d9df4
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-07
+
+    commit
+
+commit 1ae4db9a8ed1c1502b412a5795f9842d7e0b3ff8
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-06
+
+    aggiunte alla seconda interfaccia file.fxml per Booking
+
+commit d0bac8a70691c9d15039f566876a2779949bf9ba
+Merge: dee62e7 dca4c44
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-06
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit dee62e738a2cce0a9ed70a6cf082343a60d4e218
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-06
+
+    Gestione date seconda interfaccia
+
+commit dca4c4466cf077b8de5915ced2f5582ac56947e2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-06
+
+    modify
+
+commit 4a218eb73e324a1f5cd41ed3334b069b29499667
+Merge: 1e76833 a76fe4f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-06
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 1e76833fada8ca3231a0756d97e3477c799acd8c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-06
+
+    add payment
+
+commit a76fe4f6d0e6231c578c893e19f14a8c02630bfc
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-06
+
+    Logica per ricavare gli slot
+
+commit 0582ff7ce357a04ef0146e42e4d43ebafd3930f2
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-06
+
+    Modifica gestione dell'orario del centro
+
+commit 97ddee3959944966194bf0d0fcb1f71a4d1c3952
+Merge: a694922 e197941
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-05
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit a69492216ac1c88421284a03665a3e6bfe0caa17
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-05
+
+    Diminuzione Accoppiamento Classe Order
+
+commit e197941c8a9f88b9e0e2ce1d6bc405d841b7f101
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-05
+
+    modify secodn_viee
+
+commit e94b8d01565d576d79f3499798f68b702e4a0f22
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-05
+
+    add ScheduleTime
+
+commit 0cb5ef9b0ea34c6c5f92dbd43bd28b80576014fa
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-05
+
+    Aggiunta gestione dell'orario
+    
+    -Eliminazione alcuni code smell
+
+commit 3a22dbbe86354593016a2c458f74b84737cc38ee
+Merge: 708cb7a 17c687a
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-05
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 708cb7ae40bed2209069b54640445dd0f6a03084
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-05
+
+    add TimeSlot class
+
+commit 17c687a5417d3028ecc6a72b7c91667ae0164c31
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-05
+
+    Correzione code smell
+
+commit 143e3f75767d7fcefc06f86cfe4705b7c01e52c8
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-04
+
+    Rimozione di alcuni code smell
+
+commit 1f5da2489d26f8faf42afe3365b4692e0d429163
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-04
+
+    Modifiche varie
+
+commit c0c31f6dddd991982cae73433c531efcf662ad0c
+Merge: 9da0f42 74df246
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-04
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 9da0f42a00b5b5b58b06f7550f838282d5dda791
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-04
+
+    Fine Collegamento Interfaccia 2 ; Inizio Interfacce Carta Fedeltà
+
+commit 74df24690c6163949d606a3313f83a4737e1b813
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-04
+
+    ultimo commit di una faticosa giornara
+
+commit 55c32e34b13f0748da278e3bba92451ea992eaac
+Merge: fd607c6 d7c492d
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-04
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit fd607c6c2779df9343290e0638c590d563671408
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-04
+
+    aggiunta interfaccia (allaprima)
+
+commit d7c492dd75dc1689ed045ee25ff26ec5fa9f64fd
+Merge: 936ac80 09a358f
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-04
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 936ac80c068a6508d5b49a16b284c7188ac0f4da
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-04
+
+    Coperta l'estensione del caso d'uso aggiungi servizio in cancella servizio
+
+commit 09a358f5e25f41c760941977f18aba2fd477c0c7
+Merge: 1902dc3 e8cb4f9
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-04
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 1902dc3ea0c9c30ad398b8683515df1c08030c60
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-04
+
+    collegamento logico update
+
+commit e8cb4f9a3c9a0b34a30ad863fdc254191032056f
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-04
+
+    Modifica dei list item relativa allo slot
+
+commit 7a23f1d3edf03356354dfb4390d12fbcc191aca2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-03
+
+    aggiunto BookinDAO
+
+commit 13b3543b128efae517e0de3a4dc55bc65fe7440f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-03
+
+    listView
+
+commit 05f267225f8cf11f399365c6b4321819af600170
+Merge: e9d418b 47fcba9
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-03
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit e9d418bd626a2a30516fdfe2a8cdcfda9b2cb295
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-03
+
+    BuyProduct: Inizio collegamento DAO , Continuo Collegamento Interfaccia 2
+
+commit 47fcba940b92efe9bec395cfcf2e0e3ffad15180
+Merge: 7024de5 e47e5cf
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-03
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 7024de50c00b68cd1c59d8fe5e00602ca49b7b07
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-03
+
+    list view controller
+
+commit e47e5cf21840dc7b6159e41c59f43cb3b36869d0
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-03
+
+    Summury
+
+commit 4cf6342415b293ef47753dec7fb3c45abbc8ba08
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-03
+
+    Modifica gestione delle list view in modo corretto
+
+commit 3a0072caf5fb417ef8ba1ae2835d1bd73adaeeb3
+Merge: eb732ec 7a56280
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-03
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit eb732eca8e0f343dbbe4868a6fb39ad892199297
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-03
+
+    modify
+
+commit 7a56280281b26978cdaf6df989f177653208e831
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-02
+
+    Aggiunta delle classi DAO per il caso d'uso "Aggiungi Servizio" e prova gestione di una prima eccezione
+
+commit e4e8776badd098044573d05f3bc95f724343b3b1
+Merge: edcab3a 442fb5b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-02
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit edcab3a7a0636e1848cab6f1ab726eba96290e5b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-02
+
+    piccola mod
+
+commit 442fb5bceb660b572f7835a8ca0ea53e659fe135
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-02
+
+    Aggiunta e prova di implementazione del caso d'uso "aggiungi servizio"
+
+commit 2017175de8948280e0eada5b5935ed0222ccb7fc
+Merge: 1ded207 3a87cd0
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-02
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 1ded2070e930a269ae1282ff1a1aa5694fe52054
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-02
+
+    aggiustato booking
+
+commit 3a87cd0eb899a35f328a23f479f6318523e8ea51
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-02
+
+    Modifiche e aggiunte
+    
+    Aggiunta la schermata e il controller della modifica di un servizio e modificata la classe del catalogo dei prodotti per ottenere un prodotto solo dal nome.
+
+commit 3e6381708e10650f00ee06fb4a40ba65f9815008
+Merge: dddabc4 4f8865b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-02
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit dddabc48ad66f32e1c85e8410b768f45ba4cc0cc
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2022-01-02
+
+    prima interfaccia Prenotazione
+
+commit 4f8865b11bf21185ed299e1564a14b393f7031a1
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2022-01-02
+
+    Aggiunta catalogo servizi
+
+commit c9b8dc924aeb626228f1d971531d048677c8ba3d
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2022-01-02
+
+    Continuo BuyProduct e inizio collegamento interfaccia 2
+
+commit d4c330695369ec3536adff2c78f45a2cecad210f
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-30
+
+    Last commit of the day
+
+commit 0692891cb39ab6a95e8478e1f166f7ac59fa72fa
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-30
+
+    Aggiunta la schemata della gestione dei servizi nella seconda interfaccia e il relativo controller
+
+commit 0b62812cef436aae60f04fb9e7fb0875ffac5525
+Merge: a0ac39b 5bd4f47
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-30
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit a0ac39b46bf82507da1e2798fc92c77f6ebb478d
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-30
+
+    Aggiunta gestione grafica della liste dei servizi di un barbiere
+
+commit 5bd4f47e7423c64b2e902d984e173bb0816843b4
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-30
+
+    incluso listview in bookingController(finalmente)
+
+commit 246fe6fec8aa085848456d80e4da45005406807f
+Merge: e56e3ac a2e11f3
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-30
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit e56e3acf9e03c8409d97c1ade53d0312dc796ec7
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-30
+
+    Aggiunta schermata relativa alla gestione dei servizi nella prima interfaccia
+
+commit a2e11f3b4b42d5a74c9fe6b0f7062c660e29d347
+Merge: 61f4905 a1e3063
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-30
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 61f4905615f5b6be9f1a9b733eec2bd5ad75cb59
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-30
+
+    Continuo BuyProduct
+
+commit a1e30633606a29fc645ad935e3b810179f09dee2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-30
+
+    Aggiunto Controller Grafico dell email provider e librerie
+
+commit 98ca7aeadce115f2bb509ddc87761d1cffc5e812
+Merge: 52222af e1a1c22
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-30
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 52222affca2e1c4f4a5b6856a59f0e2d436b43aa
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-30
+
+    non mi faceva fare il pull
+
+commit e1a1c2213db5216c5398d70ee2c34ac2da6c6f07
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-29
+
+    Aggiunta classe per evitare duplicazione di codice e coupling elevato tra i controller grafici
+
+commit 7e77f3cc79ad2831b36aed386265a67f8c4e46b3
+Merge: 24224a4 1f1ac2c
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-29
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 24224a493f7b974301977e187a7d143236f2efb6
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-29
+
+    Continuo BuyProduct (Quasi Completato)
+
+commit 1f1ac2ce951e804653ac267f6db28bfbd23af827
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-29
+
+    Modificate le schermate relative al caso d'uso "aggiungi servizio" e prime prove di implementazione
+
+commit fb763b09b9ba814d9edda0b3fc57c05daec75459
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-29
+
+    Aggiunti la classe bean del servizio e modificata la classe servizio
+    
+    Aggiunte per implementare il caso d'uso "aggiungi servizio"
+
+commit b83ebb158c642ff345ed878c35067291583789cd
+Merge: fed6177 63afadc
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-29
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit fed6177cba9db1cb811c743d7b6b412e5e5e7056
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-29
+
+    Modificata la gestione delle date nella seconda interfaccia
+
+commit 63afadca4c13cf1f2fb0dbaa7c1932290aa10af9
+Merge: d56f80f 9bf27cc
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-29
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit d56f80f91b88fa7c6d87a38816ab3562d3f82bd5
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-29
+
+    Container Class Catalogue
+
+commit 9bf27cc5564b47e70c7ff289568ca32a30f86f7f
+Merge: 204ebe7 c0d0c76
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-29
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 204ebe7376eec918871a2a51be52b0a706d6d1e4
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-29
+
+    UseCase BuyProduct Parziale
+
+commit c0d0c76be6296bd2c8a389ea923362ec47452b4c
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-29
+
+    Aggiunta Schermata per il caso d'uso "aggiungi Servizio"
+
+commit 66c76536eef278b0f7f17dcf9c5706a3730f9b63
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-28
+
+    Aggiunta classe Time
+
+commit a9ca019bc91c33cd36bbfbaf88fb81a89dbc5dee
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-28
+
+    el
+
+commit bb813c058082ccaa5bc9c8212593e7810baef6f4
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-28
+
+    f
+
+commit 9f6631c7cc7f2e26b2b154e3cca8753a744e7ee8
+Merge: 59ac644 6f3770e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-28
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 59ac64473f8c91bcba40922aa28e6a57c73a4194
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-28
+
+    Preparazione DB
+
+commit 6f3770e80be3890cd114d36bb95dbbcafd072eee
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-28
+
+    d
+
+commit 9ff308c36264a689ff4ec7d1b74b75377cd8c501
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-28
+
+    driver
+
+commit 30d64c98955c0a4d0c97f2f163597d28fbc155b7
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-27
+
+    Preparazione BuyProduct
+
+commit 0749b42c9fed453192feec82b833f58cf19aa1b5
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-27
+
+    Create mysql_connector_java_8_0_27.xml
+
+commit 3932f3cbb5763775632889582f95872033a87c3a
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-27
+
+    cancellato e rimesso la cartella Connector/J...
+
+commit 1c9248ebee584cb0e791a1849c8162a33e4912f3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-27
+
+    Aggiunte Bean e DAO
+    
+    del salone e qualcosa della prenotazione, sto cercando inoltre di accorpare qualche classe del controller grafico in fase di prenotazione, mi risulta più agevole
+
+commit 356c003dad39914f88cf9e3f63bae61ea627e280
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-24
+
+    Aggiunto il controller grafico
+    
+    Aggiunto il controller grafico della gestione degli appuntamenti dalla parte del barbiere nella seconda interfaccia.
+
+commit f7098536cfcc2c7b7452b93d82782b52d10e7da3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-24
+
+    eliminato classi decorator e aggiunto classi DATABASE
+    
+    delle classi database ho aggiunto:
+    --> Connector: Classe Singleton che permette di rendere UNICA la connessione;
+    
+    --> SaloonDAO
+
+commit fb931b7e6a9c457a8467b3f881c7d1a0c11c0913
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-24
+
+    Vedi DESCRIZIONE DEL COMMIT
+    
+    sono state aggiunte le seguenti cose:
+    directory mysql-connector-java per il driver JDBC;
+    classe SaloonDAO e queries;
+    classi del decorator che erano del servizio ma sono da cancellare
+
+commit 3e78149028cd3bd9b4fc31832dd02a141fdd9bbf
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    summary
+
+commit 872eb8d0cd3ab72e1eb93514b28ff6b4f85e8dcc
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-21
+
+    Prenotazione Appuntamento (Da Finire)
+
+commit a4711aa945df6687f5b938f1207ea79c1a949e2f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-21
+
+    Update BarberViewAppointmentsController.class
+
+commit d601d9e9ae3d036c74d988b884313f5b18d5417e
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    update
+
+commit 7e78ce2ba060ac40149c40d80e18b8649aa1d117
+Merge: e42469f 5e5c0f1
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit e42469f784baa3b9e989ebd66042d06ed4e9cc62
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    Aggiunta schermate nella parte del barbiere
+
+commit 5e5c0f11e504f71e7f665ed481ee79a36a9a6836
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-21
+
+    Delete BookingController.java
+
+commit 9f56cadd93d2c68a77438e5c0a71e804e3c21b7a
+Merge: fb3dc07 52b7edc
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-21
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit fb3dc076db3c8fe3e5753954d023d4c226d1495d
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-21
+
+    Create BookingController.java
+
+commit 52b7edce7c4de78b629d38c42703677c21324607
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    refactor
+
+commit 14464afc15e24035c2c1aac07d36d2f765c2bb0e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-21
+
+    Create hjg
+
+commit 617f3312a9baa089cc3b8cb6d5f7f2532a344cbe
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    Correzione code smell
+
+commit 802308692fc7b5f7df4542a352a45a0fef8c13f8
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-21
+
+    Commit Prova 2
+
+commit fc409fdbaa81102fc634c48f479002d7c63cc321
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-21
+
+    Commit Prova
+
+commit b46ce3a070c899d145c7cd260441b20033f71bc9
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-21
+
+    Rimozione moduli e passaggio a Packages
+
+commit e126fe366fd3d2615984f04c176364bbe38a439e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-21
+
+    Aggiunta Modulo Engineering
+
+commit f09ec537baa96191ce3a1353b87ecfb91f2643a6
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-21
+
+    modify
+
+commit afde6330b29566e2c8e1b5cb43721ab1831b21e3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-19
+
+    Create Saloon.java
+
+commit da8954cc862adc73aa022d83c37afc2e7981a336
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-19
+
+    aggiunte classi nel Model
+
+commit a6e03ca810ecbd0b4fca019bc1870be9397faa36
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-17
+
+    Modifiche
+
+commit 40e155094fbaa9880a8949077e7ecc271611efe0
+Merge: cd95913 ed50b25
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-17
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit cd9591337813d60c9cab3a772338829416a5f399
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-17
+
+    Aggiunta interfaccia della userarea del barbiere e una prima prova del logout
+
+commit ed50b254fc8f967b660aebade946d0fb976b65be
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-17
+
+    Modifica registerScreen e Interfaccia PrenotaPostoCliente
+
+commit 65fb3fd013c0c18a6ee01189d6d9320c19eb3e18
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-16
+
+    Aggiunta Schermate Interfaccia 2
+
+commit 1c006f174acbde332ca84f4d6ac0f7c916667b58
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-14
+
+    Sistemata SubscribeScreen View2
+
+commit 4ca3db109a690f3fb01ea2d54e36f3f6ab3c71c3
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-14
+
+    Riduzione complessità subscribe interfaccia 2
+
+commit ff96904fbfe2803a5663f9a7534ca4b9b5d82a4c
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-14
+
+    Add sonar-project.properties
+
+commit 93a242316fd52aaa1493208dde57d909d641c785
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-14
+
+    Rimozione CodeSmells2
+
+commit ec602c16544c13652bd7374a22175fc7c7847b4d
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-14
+
+    Rimozione Primi CodeSmells
+
+commit 961cd67077365167368efc2fe5da8438ae92cdd7
+Merge: 605ccdb f6d92b4
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-14
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 605ccdb2de89ebf39e07197be188bc273a02ddd3
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-14
+
+    Sistemata SubscribeScreen
+
+commit f6d92b49ab2e2a4a8a0d9738a5e197c74f91379e
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-12-13
+
+    Update build.gradle
+
+commit acbb74bdc6ef1e3d913be07fddfaad22ea6419ed
+Merge: cc7002e e3ece10
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-13
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit cc7002e190c8a4707c7bbb0fe93f5ec7a6d5cb33
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-13
+
+    login e subscribe interfaccia 2
+
+commit e3ece10a6ed0694f1d1a5c28607877e77f88f933
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-12-11
+
+    Update .gitignore
+
+commit 7c03b907838ae3d54c347520071af097a1fe1e0d
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-10
+
+    Aggiunta Moduli: Model, ApplicationController, View2
+    
+    Prevista aggiunta di Modulo di Boundary per interazione con attori esterni e da valutare aggiunta modulo di Bean per le classi Bean di MVC
+
+commit 5d09c7c54d89cb7cdd817b2e804d1e98c78684c2
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-12-06
+
+    Modifica Moduli
+
+commit 1617c0f780b126112d15e06a07860d71b1833524
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-24
+
+    Risuddivisione Resources
+
+commit c2585d1d5f03fa6140212a76cea350b6462c73ab
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-23
+
+    Sistemato InternalBackcontroller 2
+    
+    Sperando non ci siano altri problemi
+
+commit 691ccf2e0e47d1f299b30a4a853ad194bb402a93
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-23
+
+    Delete 1c9de2be515eb8b4cdd366310b39b2925753b8e5
+
+commit 1b4e34c68700a6b6d8aab6c99302f8da5261af80
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-23
+
+    Alessandro Commit
+
+commit f799565088c1c3bf9bd2b609aa7c27df0d08da60
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-23
+
+    Sistemato Back
+
+commit ce4b471342aa411e759596428a069d1611f2c340
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-23
+
+    Aggiunta Logica InternalBackController
+
+commit 414f54adfd73dae6d3c450196b6c8031f035ab84
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-23
+
+    Aggiunta Logica InternalBackController
+
+commit 0e4223bfdad3a755c81037fd14400e374dac9c4c
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-23
+
+    Alessandro
+
+commit 700aca16326c04be79b1eae593ef93d2683a5f25
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-23
+
+    sonarlint
+
+commit f0637ab6ce5209eacedb33535f82e073473f5206
+Merge: 76d4ae0 58333ab
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-23
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 76d4ae0f8f939d83a0800030bd8aa0f2c6a0d435
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-23
+
+    sonarlint
+
+commit 58333abdcf89ba697e2c619669220eb4e338ef01
+Merge: 79ac90e a432782
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-22
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 79ac90eff3412e9d5516f47061d22ee5f3fc7bab
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-22
+
+    Aggiunta InternalBackController
+
+commit a432782d652942c19b1aabd2d7b38add9d78bca8
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-22
+
+    Aggiunte modifiche nelle schermate della gestione dei centri da parte del barbiere
+
+commit 24990df5956784c2e9f2ff716d8209ee3b6f1f18
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-21
+
+    Varie aggiunte
+    
+    Aggiunta interfaccia degli appuntamenti nella sezione del barbiere e il relativo controller. Ho anche modificato alcune cose che non mi convincevano nell'interfaccia relativa alla gestione dei centri del barbiere.
+
+commit b3cb5d16ffcd55902f5eaa1cae4eea061f5b1cf8
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-21
+
+    Aggiunta Gestione Prodotti
+
+commit 341c8aa4c2b7662f68f2919fb13a4d919f0162d2
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-20
+
+    Aggiunto logo e interfaccia di aggiunta del servizio
+
+commit 2990769b184aa8e82c91947a44a8f391709b9438
+Merge: 5f1a02a 198aadf
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-20
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 5f1a02a2738acc86f00d51b9d4a2d14f2b842d69
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-20
+
+    Aggiunta Interfacce
+    
+    Ho aggiunto le interfacce relative ai centri, da parte della zona dell'applicazione relativa al barbiere, con i rispettivi controllori.
+
+commit 198aadf8ff60cd80ea3e567c2cc16d7a61bd81b3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-20
+
+    Create index.pb
+
+commit 562381720a838799b57ea9207ddfcd61a3a9dea7
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-19
+
+    Tentativo utilizzo ListView-CellFactory (Vedi descrizione)
+    
+    Ancora non implementato il set degli Items della ListView via CellFactory visto che non c'è ancora una logica di DB dietro o comunque delle classi che possano svolgere il ruolo di Info che devono andare nell'item
+
+commit f37e6ec30b9a201cc0a8967ddd128beebc1cae95
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-19
+
+    Sistemato caricamento ListView ; switch --> if-else
+
+commit 704c52bf09c5ebbbac8ac8c62a5c2caa3c368d9b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-19
+
+    ultima interfaccia use case: prenota posto
+    
+    ATTENZIONE: MANCA QUELLA DI CARTA FEDELTÀ MA LA VORREI IMPLMENTARE QUANDO FAREMO LA PARTE LOGICA
+
+commit 1f456d1b8949990c0ef562170a2974807b3855c4
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-19
+
+    aggiunta interfaccia prenota posto
+
+commit 8c57b0999f3763312c4ae71a51e2098f1b0ef7c8
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-19
+
+    sostituito if else con switch case
+
+commit 9ad012ed48796db647eaac82f561d9ad8c5363fa
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-19
+
+    Update ClientTakeSaloon.java
+
+commit d732f839260d4fbf08de0e94133577d948fa484f
+Merge: a50d373 1b1df2f
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-19
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit a50d373fb956a8a991e9b431fef71d3b18c81a36
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-19
+
+    aggiunto qualche interfaccia cliente
+
+commit 1b1df2f6435498acb711f5a7660a373a0b109bb3
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-19
+
+    Aggiunto lo scheduler del Barbiere
+
+commit 88d7db91be9d7603b4fd0d3553c8df59a782b721
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-19
+
+    Aggiunto lo scheduler del Barbiere
+
+commit a70f5fd590b40ba4f20b5b31eae1fa9e3f9fa5d6
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-19
+
+    Aggiunto lo scheduler del Barbiere
+
+commit 3d8c38abeeadb2b3c147f8acb5caabd5b0c417d6
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-18
+
+    Alternativa BarberScheduler (con commenti)
+
+commit df9943f2d0d77be05931cb8ac117f1bbd00ad138
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-17
+
+    Modificato id ItemMenu
+
+commit a5cd8edcfd4aadda521902f41eb6028c8527f946
+Merge: fc6a157 a8dcdac
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-17
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit fc6a1574a2d18a3c744e34e643cf10f9da015870
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-17
+
+    Aggiunto orario barbiere con controller
+
+commit a8dcdac92e6379dbe447d028c5b213b407f213c5
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-17
+
+    Aggiunta Prodotto Barbiere ; PricePicker
+
+commit f4a1fb3b07ef9bbeeb2780ad2a903b61d4c64eb5
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-17
+
+    Sistemato TimePickerProva
+
+commit 990ba13c184fa92515c553c7e551fcf68ab8f4af
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-17
+
+    Creazione TimePicker
+
+commit 80b2201c266065ac93c74333dd65cc7c08171214
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-17
+
+    Risoluzione problemi Carrello
+
+commit 3cf9a9149d04ae8654897aca0905758293ca8a12
+Merge: 33e2669 a1d8504
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-16
+
+    Commit
+
+commit 33e26691956856245baac90a99617c36394a81ce
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-16
+
+    Commit
+    
+    (Alessandro)
+
+commit a1d8504e92b2d5f2b1f1580cd70e93d2f5595e78
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Modifica
+
+commit 12af4ba79d6cb06afa7d11234ebf7d3899aba40f
+Merge: 8f52b4f f1e3be6
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 8f52b4fd2c477ffee765e0f986175dfb5765aad3
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Modifiche
+
+commit f1e3be6944c2ebaae44171905c1d973eeb9c5a3e
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    rename clientHomeController
+
+commit 807b8df48eaf3134ee0484da3a911071158f66a6
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    Create clienthomeController.java
+
+commit 0d263cbc3e848777ed7e09c94a75f3533422c4e1
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    mod cliente home
+
+commit db901df984700c0218cd3e3c41ba8f8cff8780b9
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    modifiche home cliente
+
+commit ed126f645349fcc9010922d0142d4656001d1abf
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    Update client_home.fxml
+
+commit 4bf1f2f547d305f390cddf6c855ff9d5d8a198cf
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-16
+
+    Aggiunta Compra Prodotto
+
+commit a798ad84badba2ca5d3089ab92fb4d1713d9a8a0
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-16
+
+    Sistemata logica navigazione
+
+commit 4308ee235f444f0240e52dffa672a1507a4a1074
+Merge: 24f2d23 bbf3e9e
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 24f2d232ba45b6484af297c76e705294519f7595
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    home cliente
+
+commit bbf3e9e9b4c85e259cdc65236b970e2095341987
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Modiche home barbiere
+
+commit 693fb51c6b44c37fabc7add65ac099750c375cab
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Dimensioni corrette Menu
+
+commit 560f3b78fa7efa3167e4fc575e8adfc8144d6dae
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Modifiche
+
+commit 6014507822d47da0dc527e9901866b17322fdebf
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Modifiche
+
+commit e8e05d6470fbeb96a814aa2c418e4207645bc047
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-16
+
+    Modifica Gestione BorderPane
+
+commit f726847e7e81e32b46a6b03ba2953d9acecd6384
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-16
+
+    Update misc.xml
+
+commit f3b27cd82f6d584965114aa922d35fb47d793cd6
+Merge: 254ac37 9ec6691
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 254ac37afa7f1dd384cec5cb56d75b61aac8a2e2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-16
+
+    perfezionata Home del cliente
+
+commit 9ec6691b0dbf85698949b9d7dd59de509e7bec97
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-15
+
+    Commit
+    
+    Non so perché ma mi fa fare dei commit su cose che non ho aggiunto io.
+
+commit 114585142fb35dd06597edad1fc55a60eecdd2fc
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-15
+
+    Sistemata Logica di Back
+
+commit 480dd50e1ca578bacf9e6e477ccb99cdfe333ac4
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-14
+
+    Piccole Modifiche
+
+commit d0c7b75fb6d11b19a787e2c832932beabe63fd90
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-14
+
+    Update RegisterScreenController.java
+
+commit 314dcb9f0bdf95b81e5c55a21382a953f1a37e1b
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-14
+
+    Aggiustato Home/Logout barbiere
+
+commit 3641cd692d54412fdb15f2a72562f9cc79db464f
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-14
+
+    Lista Appuntamenti e Collegamento Schermate
+
+commit 225099733ac420d557f785d26550b5f98eb617c0
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-13
+
+    Alessandro Commit
+    
+    Aggiunto il menu per il barbiere e una prima versione della home del barbiere.
+
+commit 3513ebafa7374fd125a5cbf7c2bd921210e5b83b
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-13
+
+    Update menu_client.fxml
+
+commit 75ca32ca828a01816ca2404ff859efe32d9b2ec9
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-13
+
+    Create Menu2_client.fxml
+
+commit c5c6d149ffa8263a6915207c90c45424334b2a8c
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-13
+
+    Create menu_client.fxml
+
+commit 883962a35ce59b30e7c6999c6cd9f2fc36629bdd
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-13
+
+    Aggiunta AppLogo Versione Icona
+
+commit df7fe2a3cdb1bfc42ce59746d701cae6823fbaaf
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-13
+
+    Modifica Loghi
+
+commit 4cadfe5739394113ddf23677bceb4d822c4e674e
+Merge: 566609e d82b09a
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-13
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 566609ed7bad7eb595bf09d5079b0261db005da2
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-13
+
+    Aggiunta Logo Invertito
+
+commit d82b09ac21fa1aa94b892d57b683a9a5e36ef0c8
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-12
+
+    ok
+
+commit 77cc2701929a1b18d3d32479420022ae685c1691
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-12
+
+    Modifica AppLogo
+
+commit 5701b5272fbc9ff880b0dc5c998c2fb28c2fbdca
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-12
+
+    AddRegisterScreen
+
+commit 2faca01a8db877383354ea9e5d70c3693e606945
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-12
+
+    ok
+
+commit 443f7c229d15a7d8d0ad83824838582ff4e2ebcd
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-12
+
+    Login Screen Modified
+
+commit 548111ab3dcd40b805802ab667f11dd6ccb6dc01
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-12
+
+    Update OpenScreenController.class
+
+commit d8ac3eb10a6bebbcdf99b1e9de9e5be024cd4570
+Merge: 7221323 b0260b8
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-12
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 722132394058b6a2cb7b37c9ec426d5d57e29cf2
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-12
+
+    Update HelloApplication.class
+
+commit b0260b8a7b673fd7f83bb67c7ae3dc8103d9a68c
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-12
+
+    Alessandro commit
+    
+    Cambiato il colore nel back button, così non si vede che c'è il bottone ma solo l'immagine.
+
+commit 399648ed5339df55beca1bd32ede199818cee412
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-11
+
+    Correct BackControl
+
+commit 661ca8711f45932eebffd6c392e34cad01577060
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    add color in file.css
+
+commit f397e8a3d921f07441b56404517ff1b7bd499f18
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-11
+
+    BackControl commit
+
+commit e2c523a11bc3ce2c1627649bbe792acf08aee301
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    boh
+
+commit 14b503c6b1d17682ca9f9c02733eccb0bcdf6ec4
+Merge: 96f8b98 740be73
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit 96f8b982a4344a7310717ad93fe79bf51f0d5009
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    Create login_screen.fxml
+
+commit 740be731fde7fb4cbd5cb10558d8ccb78bc0b685
+Merge: 1a87e82 608558e
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-11
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 1a87e82a8cfd01b9296b1ae8072f466543ed4171
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-11
+
+    StartScreen Commit
+
+commit 608558ec515ef0302b7b1c4636f7dd836828b853
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    add e delete
+
+commit b3ed7a006e5fb6fb4e74ea466254d63d92b73eb5
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    Delete mobile_login_2.fxml
+
+commit ce5d7c761cf9eecd11139016f8e1f1ac468c4c26
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-11
+
+    add css file
+
+commit 3fe71889d0335c5b4d43e82a01f1539cb1d55627
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-11
+
+    Cambiato il titolo della finestra
+
+commit c4d0d75518a7219b0925a116a4b0bb6323d06751
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    RegisterScreen Second
+
+commit e250a9fa93d3dfd00275c29d6191aaf4ec208609
+Merge: 05b8247 46ede5c
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2
+
+commit 05b82478bd96544dee225959e58234a9e5d76c79
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Switch
+
+commit 46ede5cc9f10f3933bb7adc950c053ff046ed366
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-10
+
+    Create RegisterScreen.class
+
+commit 27c17f38ecad972601f25688cc07fb72da30829b
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    RegisterScreen Commit
+
+commit d40b20d73fe723963a074ca4ed167ffd1ff3bda1
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Prova
+
+commit f026318d3295e8e39d014380f1d37dca18e7c4f0
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    Update Try
+
+commit 1c9d8fa5df74b0eb72c3829fd60ede3a818ed900
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    Images Push
+
+commit 0aaf1ed858f6c11cefc7dc5ff1e3ce413fb90edb
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-10
+
+    Update HelloApplication.class
+
+commit 791485a4cbd1d8e69273481b3d73536b6c2a53d9
+Merge: cae6958 43797c3
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-10
+
+    Merge branch 'main' of https://github.com/alessandro-cortese/MyBarber2 into main
+
+commit cae69580177807b5addf19308aa205f5aa52ee88
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-10
+
+    u
+
+commit 43797c3d5832ef5b39abeae2926df2ed6ddd40f2
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Update
+
+commit 1eb61c2ffefddac1a153c9e11ef0b770440568ec
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    Prova
+
+commit 8a53b8926446c6458201ac8ab27a6be8b860adba
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Commit
+
+commit 05c457d60f9aef1a000af8d74e7a67a750040dbf
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Prova
+
+commit 06e00d2e9cb929ee0dd2d5cd81cb56b17d45167e
+Author: Roberto <roberto.fard@gmail.com>
+Date:   2021-11-10
+
+    Update HelloApplication.class
+
+commit ae89bf2a9abfcaa64a9ed55b1272c5b0e6a2c5a2
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    Simone Commit
+
+commit c25b058b7c12059982261fb10e6b19012df9a371
+Author: Cortix24 <74416238+Cortix24@users.noreply.github.com>
+Date:   2021-11-10
+
+    Prova
+
+commit 949f377dd51ac45237f74d610710c782615625e2
+Author: EdmondDantes <snicosanti@gmail.com>
+Date:   2021-11-10
+
+    GradleCommit
+
+commit c302255c9911e3f0c9b86f781a52ccd09354e4bf
+Author: alessandrocortese <74416238+alessandro-cortese@users.noreply.github.com>
+Date:   2021-11-10
+
+    Initial commit
